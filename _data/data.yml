@@ -13,9 +13,9 @@ sidebar:
     avatar: profile_small.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: carl dot helmick at icloud.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: chelmick@dal.ca
+    phone: 
+    timezone: America/Halifax Timezone
     citizenship:
     website: hfxcarl.github.io #do not add http://
     linkedin: carl-helmick
@@ -37,35 +37,27 @@ sidebar:
           level: Native
 
         - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+          level: Beginner
 
     interests:
       title: Interests
       info:
         - item: Mountain Biking
           link:
-
         - item: Cross Country Sking
           link:
-
+        - item: Scuba Diving
+          link:
         - item: Cooking
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Experienced data engineer and systems manager seeking a full-time 
-      role in a data-intensive environment, to leverage my expertise in data 
-      management, quality assurance, and software development.
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A data engineer and systems manager with more than 20 years experience in 
+      Brain Imaging Research Data Management, Processing, Analysis, and Software
+      Development.
+     
 education:
     title: Education
     info:
