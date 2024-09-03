@@ -80,9 +80,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Neuroimaging Data Engineer - Laboratory Manager
+      - role: Neuroimaging Data Engineer & Laboratory Manager
         time: 2005 - Present
-        company: Clinical Brain Imaging Laboratory, Psychiatry Dept, Dalhousie University, Halifax, NS
+        company: Brain Imaging Laboratory, Psychiatry Dept, Dalhousie University, Halifax, NS
         details: |
           Develop data management plans and create custom code to download, clean, process, 
           store, combine, analyze, visualize, and archive large clinical and research data 
@@ -98,18 +98,19 @@ experiences:
           trouble-shoot software, hardware, and networking problems; learn, test, develop and 
           implement new software solutions as needed.
             - Python, Bash, Matlab, C/C++, Git, Slurm, Docker, Singularity, HCP, SQL
-            
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+
+      - role: Scientific Software Developer
+        time: 2004 - 2008
+        company: Various Researchers & Academic Departments, Dalhousie University, Halifax, NS
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Using Python and Matlab, developed various independent project-specific software 
+          applications for presenting visual stimuli and collecting physiological, keyboard, 
+          grip force, and other responses. Programmed various signal-analysis applications for 
+          kinesiology and psychology research including lift-force dynamics, 3D optical/magnetic
+          kinematics, and physiological arousal. Created custom software to aid in manipulation 
+          and analysis of large text-based human genetics dataset.
+            - Python, Matlab, MySQL, SQLite, Bash
+
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
