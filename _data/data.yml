@@ -119,9 +119,8 @@ education:
         university: Faculty of Computer Science, Dalhousie University, Halifax, NS
         time: 1999 - 2004
         details: |
-          My initital interest was Earth Science, but then switched to Compter Science, and then 
-          later in my degree took specialized courses on Remote Sensing, GIS, and 
-          Digital Image Processing.
+          I started university in Earth Science, but enjoyed programming and switched to Compter Science. 
+          Later in my degree I took specialized courses on Remote Sensing, GIS, and Digital Image Processing.
 
 certifications:
       title: Certifications
@@ -179,7 +178,7 @@ publications:
       
       - title: "Psychotic symptoms are associated with lower cortical folding in youth at risk for mental illness"
         link: "https://doi.org/10.1503/jpn.180144"
-        authors: "6.	Drobinin, V., Van Gestel, H., Zwicker, A., MacKenzie, L., Cumby, J., Patterson, V. C., Vallis, E. H., Campbell, N., Hajek, T., Helmick, C. A., Schmidt, M. H., Alda, M., Bowen, C. V., & Uher, R."
+        authors: "Drobinin, V., Van Gestel, H., Zwicker, A., MacKenzie, L., Cumby, J., Patterson, V. C., Vallis, E. H., Campbell, N., Hajek, T., Helmick, C. A., Schmidt, M. H., Alda, M., Bowen, C. V., & Uher, R."
         conference: "Journal of Psychiatry and Neuroscience, 45(2), 125-133. (2020)"
 
       - title: "The impacts of actual and perceived nicotine administration on insula functional connectivity with the anterior cingulate cortex and nucleus accumbens"
