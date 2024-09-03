@@ -124,7 +124,7 @@ education:
 certifications:
       title: Certifications
       list:
-        - name: ACENET-ComputeCanada Parallel Computing School
+        - name: ACENET Parallel Computing School
           start: 2017
           end: 2017
           organization: ACENET
