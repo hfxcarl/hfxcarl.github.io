@@ -94,12 +94,13 @@ experiences:
           publications. Design and manage data warehousing solutions, including multiple 
           100TB Linux servers, 10+ Linux/Mac workstations. Install and update firmware/software, 
           hardware; create user accounts, manage backups, set up and maintain NFS/Samba shared 
-          filesystem; install and manage network router, gigabit switch, and printers; 
+          filesystem; install and manage network router, SFP+/Gbe switch, and printers; 
           trouble-shoot software, hardware, and networking problems; learn, test, develop and 
           implement new software solutions as needed.
-            - Python, Bash, Matlab, C/C++, Git, Slurm, Docker, Singularity, HCP, SQL
+            - Python, Bash, Matlab, C/C++, Git, Docker, Singularity, Slurm, HPC, SQL
+            - FSL, ANTs, FreeSurfer, AFNI, SPM12, fMRIPrep, MRIQC, QSIPrep
 
-      - role: Scientific Software Developer
+      - role: Freelance Scientific Software Developer
         time: 2004 - 2008
         company: Various Researchers & Academic Departments, Dalhousie University, Halifax, NS
         details: |
@@ -111,17 +112,47 @@ experiences:
           and analysis of large text-based human genetics dataset.
             - Python, Matlab, MySQL, SQLite, Bash
 
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Junior Scientific Software Developer
+        time: 2003 - 2005
+        company: Surface Processes Laboratory, Earth Science Dept, Dalhousie University, Halifax, NS
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Developed image processing applications in Matlab, Java, and C/C++ to analyze geomorphic 
+          fracture patterns from time-series digital images. Set up and maintained Linux servers
+          and workstations for small laboratory (~10 users); installed software and hardware; 
+          set up and managed NFS/Samba file system; created and maintained tape and disk backups; 
+          installed network routers, switches, and printers; performed troubleshooting of software, 
+          hardware, and networking problems. Programmed parallel-processing optimizations into 
+          distributed Matlab modelling to run on computing cluster.
+            - Matlab, C/C++, Bash, Make, Linux, HPC, RocksCluster, Cron, OpenOffice
+    
+     - role: Junior Scientific Software Developer - GIS Technician
+        time: 05/2003 - 09/2003
+        company: Bedford Institute of Oceanography, Geological Survey Dept, Halifax, NS
+        details: |
+          Used C/C++ and Tcl/Tk to port older HP-UX GIS-Mapping software to operate on modern 
+          Linux server with Open-Source GRASS-GIS application. Converted, corrected, and analysed
+          multibeam sonar data for bathymetric mapping application.
+            - C/C++, Tcl/TK, GRASS-GIS, Bash, Make, Linux
+    
+     - role: U.S. Army - Aviation
+        time: 11/1993 - 11/1999
+        location: U.S. Department of Defence - Various Army Aviation Units 
+        details: |
+          - Aviation Life Support Technician: Maintained, inspected, and organized life support 
+            equipment for multi-purpose aviation unit. Participated in research and development 
+            of new life support equipment including a low-profile horse-collar style flotation 
+            device and a compact underwater emergency egress device.
+          - Senior Water Survival Instructor: Evaluated and trained junior water survival swim 
+            instructors. Ensured adherence to safety standards in over-water operations, such as 
+            aircraft egress, water survival, aircrew recovery, Emergency First-Aid and CPR.
+          - Senior Rescue Swimmer: Coordinated inter-service search and rescue training exercises
+            for parent aviation regiment. Trained and evaluated the proficiency of junior rescue swimmers. 
+            Assumed responsibility for over-water safety, search, and recovery of helicopter crewmembers 
+            and passengers during real-time training operations.
+          - Squad Leader: Supervised, evaluated, and counselled junior military personnel.
+          - Helicopter Crew chief and Mechanic: Maintained all aircraft records, forms, logs, and 
+            aircraft status. Inspected condition and readiness of aircraft and cargo. Conducted 
+            aircraft maintenance and troubleshooting.
 
 certifications:
       title: Certifications
@@ -147,22 +178,6 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
