@@ -80,21 +80,25 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Neuroimaging Data Engineer - Laboratory Manager
+        time: 2005 - Present
+        company: Clinical Brain Imaging Laboratory, Psychiatry Dept, Dalhousie University, Halifax, NS
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Develop data management plans and create custom code to download, clean, process, 
+          store, combine, analyze, visualize, and archive large clinical and research data 
+          sets. Establish methods and protocols to ensure data integrity and quality assurance. 
+          Collaborate across multiple active research projects within cross-functional teams 
+          that include diagnostic imaging personnel, faculty researchers, and students. Train 
+          researchers and students in technical skills, laboratory protocols, data organization, 
+          and data analysis software. Contribute to scientific presentations and peer-reviewed 
+          publications. Design and manage data warehousing solutions, including multiple 
+          100TB Linux servers, 10+ Linux/Mac workstations. Install and update firmware/software, 
+          hardware; create user accounts, manage backups, set up and maintain NFS/Samba shared 
+          filesystem; install and manage network router, gigabit switch, and printers; 
+          trouble-shoot software, hardware, and networking problems; learn, test, develop and 
+          implement new software solutions as needed.
+            - Python, Bash, Matlab, C/C++, Git, Slurm, Docker, Singularity, HCP, SQL
+            
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
