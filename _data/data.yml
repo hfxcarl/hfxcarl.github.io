@@ -90,8 +90,8 @@ experiences:
             - Python, Bash, Matlab, C/C++, Git, Docker, Singularity, Slurm, HPC, SQL
             - FSL, ANTs, FreeSurfer, AFNI, SPM12, fMRIPrep, MRIQC, QSIPrep
 
-      - role: Freelance Scientific Software Developer
-        time: 2004 - 2008
+      - role: Scientific Software Developer
+        time: 2003 - 2005
         company: Various Researchers & Academic Departments, Dalhousie University, Halifax, NS
         details: |
           Using Python and Matlab, developed various independent project-specific software 
@@ -99,30 +99,15 @@ experiences:
           grip force, and other responses. Programmed various signal-analysis applications for 
           kinesiology and psychology research including lift-force dynamics, 3D optical/magnetic
           kinematics, and physiological arousal. Created custom software to aid in manipulation 
-          and analysis of large text-based human genetics dataset.
-            - Python, Matlab, MySQL, SQLite, Bash
-
-      - role: Junior Scientific Software Developer
-        time: 2003 - 2005
-        company: Surface Processes Laboratory, Earth Science Dept, Dalhousie University, Halifax, NS
-        details: |
-          Developed image processing applications in Matlab, Java, and C/C++ to analyze geomorphic 
-          fracture patterns from time-series digital images. Set up and maintained Linux servers
+          and analysis of large text-based human genetics dataset. Developed image processing 
+          applications in Matlab and C/C++ to analyze geomorphic fracture patterns from time-series 
+          digital images. Set up and maintained Linux servers
           and workstations for small laboratory (~10 users); installed software and hardware; 
           set up and managed NFS/Samba file system; created and maintained tape and disk backups; 
           installed network routers, switches, and printers; performed troubleshooting of software, 
           hardware, and networking problems. Programmed parallel-processing optimizations into 
           distributed Matlab modelling to run on computing cluster.
-            - Matlab, C/C++, Bash, Make, Linux, HPC, RocksCluster, Cron, OpenOffice
-    
-      - role: Junior Scientific Software Developer - GIS Technician
-        time: 2003 - 2003
-        company: Bedford Institute of Oceanography, Geological Survey Dept, Halifax, NS
-        details: |
-          Used C/C++ and Tcl/Tk to port older HP-UX GIS-Mapping software to operate on modern 
-          Linux server with Open-Source GRASS-GIS application. Converted, corrected, and analysed
-          multibeam sonar data for bathymetric mapping application.
-            - C/C++, Tcl/TK, GRASS-GIS, Bash, Make, Linux
+            - Python, Matlab, C/C++, MySQL, SQLite, Bash, Make, Linux
     
       - role: U.S. Army - Aviation
         time: 1993 - 1999
@@ -150,38 +135,30 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: ACENET-ComputeCanada Parallel Computing School
+          start: 2017
+          end: 2017
+          organization: ACENET
+          credentialid: 
+          credentialurl: ace-net.ca/
+          credentialname: 
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+            The school is designed for participants familiar with the Linux command line and 
+            who have some level of programming experience. Completion of the ACENET Basics 
+            Series, or equivalent experience, is strongly recommended. The mornings consist
+            of lectures, with the afternoons following a lab format, where participants are
+            given exercises, or can bring specific problems to instructors related to their 
+            research. Topics include general parallel computing, OpenMP, GPU, and 
+            Message Passing Interface (MPI).
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Fun side-projects include
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Co-Organizer of MRI & Neural Data Hackathon 2024
+        link: "https://shiftkeylabs.ca/event/mri-neural-data-hack"
+        tagline: "Explore cutting-edge brain imaging technologu & neural data analysis."
 
 publications:
     title: Publications
@@ -200,11 +177,6 @@ publications:
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
@@ -221,11 +193,11 @@ skills:
       - name: C/C++
         level: 80%
 
+      - name: Git
+        level: 60%
+      
       - name: HTML5 & CSS
         level: 60%
-
-      - name: Git
-        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
