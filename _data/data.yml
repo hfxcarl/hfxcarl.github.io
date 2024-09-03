@@ -70,7 +70,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Neuroimaging Data Engineer & Laboratory Manager
+      - role: Neuroimaging Data Engineer - Laboratory Manager
         time: 2005 - Present
         company: Brain Imaging Laboratory, Psychiatry Dept, Dalhousie University, Halifax, NS
         details: |
@@ -88,7 +88,6 @@ experiences:
           trouble-shoot software, hardware, and networking problems; learn, test, develop and 
           implement new software solutions as needed.
             - Python, Bash, Matlab, C/C++, Git, Docker, Singularity, Slurm, HPC, SQL
-
             - FSL, ANTs, FreeSurfer, AFNI, SPM12, fMRIPrep, MRIQC, QSIPrep
 
       - role: Freelance Scientific Software Developer
