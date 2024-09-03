@@ -65,16 +65,6 @@ education:
         university: Dalhousie University
         time: 1999 - 2004
         details: |
-          Started in Earth Science before finding logic and Computer Science. I enjoyed many
-          challenging courses in progamming, computer graphics, artificial intelligence, operating
-          systems, and algorithms. My longtime interest in mapping, image & signal processing eventually led me 
-          back to Earth Science taking courses in Remote Sensing & GIS in my third/fourth year. In my third
-          year I did a Co-Op term split between Bedford Institute of Oceanography, 
-          where I worked on cleaning/processing Multibeam Backscatter Data, and
-          crack-pattern recognition and modelling from mud drying timeseries images 
-          in the Surface Pattern & Process Laboratory of Dr. Lawrence Plug. 
-
-            - Bullet point
             - Bullet point
 
 experiences:
@@ -98,6 +88,7 @@ experiences:
           trouble-shoot software, hardware, and networking problems; learn, test, develop and 
           implement new software solutions as needed.
             - Python, Bash, Matlab, C/C++, Git, Docker, Singularity, Slurm, HPC, SQL
+
             - FSL, ANTs, FreeSurfer, AFNI, SPM12, fMRIPrep, MRIQC, QSIPrep
 
       - role: Freelance Scientific Software Developer
@@ -190,22 +181,6 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
     title: Publications
     intro: |
@@ -232,10 +207,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Jupyter
+      - name: Python
         level: 98%
 
-      - name: Bash & Shell Scripting
+      - name: Bash
         level: 98%
       
       - name: Matlab
