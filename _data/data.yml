@@ -5,7 +5,7 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Carl Helmick
@@ -35,7 +35,6 @@ sidebar:
       info:
         - idiom: English
           level: Native
-
         - idiom: French
           level: Beginner
 
@@ -54,19 +53,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A data engineer and systems manager with more than 20 years experience in 
+      A scientific data engineer and systems manager with more than 20 years experience in 
       Brain Imaging Research Data Management, Processing, Analysis, Software
       Development and Computing Systems Management.
-     
-education:
-    title: Education
-    info:
-      - degree: Bachelor of Computer Science
-        university: Dalhousie University
-        time: 1999 - 2004
-        details: |
-          Began in Earth Science, switched to Compter Science.
-            - Bullet point
+
 experiences:
     title: Experiences
     info:
@@ -89,8 +79,7 @@ experiences:
           implement new software solutions as needed.
             - Python, Bash, Matlab, C/C++, Git, Docker, Singularity, Slurm, HPC, SQL
             - FSL, ANTs, FreeSurfer, AFNI, SPM12, fMRIPrep, MRIQC, QSIPrep
-
-      - role: Scientific Software Developer
+      - role: Freelance Scientific Software Developer
         time: 2003 - 2005
         company: Various Researchers & Academic Departments, Dalhousie University, Halifax, NS
         details: |
@@ -101,14 +90,9 @@ experiences:
           kinematics, and physiological arousal. Created custom software to aid in manipulation 
           and analysis of large text-based human genetics dataset. Developed image processing 
           applications in Matlab and C/C++ to analyze geomorphic fracture patterns from time-series 
-          digital images. Set up and maintained Linux servers
-          and workstations for small laboratory (~10 users); installed software and hardware; 
-          set up and managed NFS/Samba file system; created and maintained tape and disk backups; 
-          installed network routers, switches, and printers; performed troubleshooting of software, 
-          hardware, and networking problems. Programmed parallel-processing optimizations into 
+          digital images. Programmed parallel-processing optimizations into 
           distributed Matlab modelling to run on computing cluster.
             - Python, Matlab, C/C++, MySQL, SQLite, Bash, Make, Linux
-    
       - role: U.S. Army - Aviation
         time: 1993 - 1999
         company: U.S. Department of Defence - Various Army Aviation Units 
@@ -132,6 +116,17 @@ experiences:
               aircraft status. Inspected condition and readiness of aircraft and cargo. Conducted 
               aircraft maintenance and troubleshooting.
 
+education:
+    title: Education
+    info:
+      - degree: Bachelor of Computer Science
+        university: Dalhousie University
+        time: 1999 - 2004
+        details: |
+          My initital interest was Earth Science, but then switched to Compter Science, and then 
+          later in my degree took specialized courses on Remote Sensing, GIS, and 
+          Digital Image Processing.
+
 certifications:
       title: Certifications
       list:
@@ -148,34 +143,57 @@ certifications:
             Series, or equivalent experience, is strongly recommended. The mornings consist
             of lectures, with the afternoons following a lab format, where participants are
             given exercises, or can bring specific problems to instructors related to their 
-            research. Topics include general parallel computing, OpenMP, GPU, and 
+            research. Topics include general parallel computing, OpenMP, GPGPU, and 
             Message Passing Interface (MPI).
 
 projects:
     title: Projects
     intro: >
-      Fun side-projects include
+      
     assignments:
-      - title: Co-Organizer of MRI & Neural Data Hackathon 2024
+      - title: MRI & Neural Data Hackathon 2024 (Co-Organizer) 
         link: "https://shiftkeylabs.ca/event/mri-neural-data-hack"
-        tagline: "Explore cutting-edge brain imaging technologu & neural data analysis."
+        tagline: "Explore cutting-edge brain imaging technology & neural data analysis."
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Select list of recent publications below, full list on my Research Gate page.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Intracortical Myelin in Youth at Risk for Depression"
+        link: "https://doi.org/10.1016/j.bpsgos.2023.100285"
+        authors: "Nazarova, A., Drobinin, V., Helmick, C. A., Schmidt, M. H., Cookey, J., & Uher, R."
+        conference: "Biological Psychiatry Global Open Science, 4(2). (2024)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Brain Default Mode Network Connectivity and Familial Risk of Major Mood Disorders"
+        link: "https://doi.org/10.1016/j.biopsych.2023.02.244"
+        authors: "Murage, D., Drobinin, V., Nazarova, A., Howes-Vallis, E., Helmick, C., Schmidt, M., Newman, A., Bowen, C., & Uher, R."
+        conference: "Biological Psychiatry, 93(9), S95. (2023)"
+      
+      - title: "The Developmental Brain Age Is Associated With Adversity, Depression, and Functional Outcomes Among Adolescents."
+        link: "https://doi.org/10.1016/j.bpsc.2021.09.004"
+        authors: "Drobinin, V., Van Gestel, H., Carl A. Helmick, Schmidt, M. H., Bowen, C. V., & Uher, R."
+        conference: "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 7(4). (2022)"
+      
+      - title: "Reliability of multimodal MRI brain measures in youth at risk for mental illness"
+        link: "http://dx.doi.org/10.1002/brb3.1609"
+        authors: "Drobinin, V., Van Gestel, H., Helmick, C. A., Schmidt, M. H., Bowen, C. V., & Uher, R."
+        conference: "Brain and Behavior, 10(6). (2020)"
+      
+      - title: "Psychotic symptoms are associated with lower cortical folding in youth at risk for mental illness"
+        link: "https://doi.org/10.1503/jpn.180144"
+        authors: "6.	Drobinin, V., Van Gestel, H., Zwicker, A., MacKenzie, L., Cumby, J., Patterson, V. C., Vallis, E. H., Campbell, N., Hajek, T., Helmick, C. A., Schmidt, M. H., Alda, M., Bowen, C. V., & Uher, R."
+        conference: "Journal of Psychiatry and Neuroscience, 45(2), 125-133. (2020)"
+
+      - title: "The impacts of actual and perceived nicotine administration on insula functional connectivity with the anterior cingulate cortex and nucleus accumbens"
+        link: "https://doi.org/10.1177/0269881119872205"
+        authors: "Perry, R. N., Schlagintweit, H. E., Darredeau, C., Helmick, C., Newman, A. J., Good, K. P., & Barrett, S. P."
+        conference: "Journal of Psychopharmacology, 33(12), 1600-1609. (2019)"
+      
+      - title: "Brain age in bipolar disorders: Effects of lithium treatment"
+        link: "https://doi.org/10.1177/0004867419857814"
+        authors: "Van Gestel, H., Franke, K., Petite, J., Slaney, C., Garnham, J., Helmick, C., Johnson, K., Uher, R., Alda, M., & Hajek, T."
+        conference: "Australian & New Zealand Journal of Psychiatry, 53(12), 1179-1188. (2019)"
 
 skills:
     title: Skills &amp; Proficiency
