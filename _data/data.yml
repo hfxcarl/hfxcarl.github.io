@@ -65,8 +65,8 @@ education:
         university: Dalhousie University
         time: 1999 - 2004
         details: |
+          Began in Earth Science, switched to Compter Science.
             - Bullet point
-
 experiences:
     title: Experiences
     info:
@@ -115,8 +115,8 @@ experiences:
           distributed Matlab modelling to run on computing cluster.
             - Matlab, C/C++, Bash, Make, Linux, HPC, RocksCluster, Cron, OpenOffice
     
-     - role: Junior Scientific Software Developer - GIS Technician
-        time: 05/2003 - 09/2003
+      - role: Junior Scientific Software Developer - GIS Technician
+        time: 2003 - 2003
         company: Bedford Institute of Oceanography, Geological Survey Dept, Halifax, NS
         details: |
           Used C/C++ and Tcl/Tk to port older HP-UX GIS-Mapping software to operate on modern 
@@ -124,25 +124,28 @@ experiences:
           multibeam sonar data for bathymetric mapping application.
             - C/C++, Tcl/TK, GRASS-GIS, Bash, Make, Linux
     
-     - role: U.S. Army - Aviation
-        time: 11/1993 - 11/1999
+      - role: U.S. Army - Aviation
+        time: 1993 - 1999
         company: U.S. Department of Defence - Various Army Aviation Units 
         details: |
-          - Aviation Life Support Technician: Maintained, inspected, and organized life support 
-            equipment for multi-purpose aviation unit. Participated in research and development 
-            of new life support equipment including a low-profile horse-collar style flotation 
-            device and a compact underwater emergency egress device.
-          - Senior Water Survival Instructor: Evaluated and trained junior water survival swim 
-            instructors. Ensured adherence to safety standards in over-water operations, such as 
-            aircraft egress, water survival, aircrew recovery, Emergency First-Aid and CPR.
-          - Senior Rescue Swimmer: Coordinated inter-service search and rescue training exercises
-            for parent aviation regiment. Trained and evaluated the proficiency of junior rescue swimmers. 
-            Assumed responsibility for over-water safety, search, and recovery of helicopter crewmembers 
-            and passengers during real-time training operations.
-          - Squad Leader: Supervised, evaluated, and counselled junior military personnel.
-          - Helicopter Crew chief and Mechanic: Maintained all aircraft records, forms, logs, and 
-            aircraft status. Inspected condition and readiness of aircraft and cargo. Conducted 
-            aircraft maintenance and troubleshooting.
+          Enlisted as Ch-47D Helicopter Repairer, transitioned to crewchief, then ALSE Technician, 
+          Water Survival Instructor, & Rescue Swimmer.
+            - Aviation Life Support Technician: Maintained, inspected, and organized life support 
+              equipment for multi-purpose aviation unit. Participated in research and development 
+              of new life support equipment including a low-profile horse-collar style flotation 
+              device and a compact underwater emergency egress device.
+            - Senior Water Survival Instructor: Evaluated and trained junior water survival swim 
+              instructors. Ensured adherence to safety standards in over-water operations, such as 
+              aircraft egress, water survival, aircrew recovery, Emergency First-Aid and CPR.
+            - Senior Rescue Swimmer: Attended U.S. Navy Rescue Swimmer School, U.S. Army Airborne School.
+              Coordinated inter-service search and rescue training exercises between customers and 
+              aviation regiment. Helped train and evaluate the proficiency of junior rescue swimmers. 
+              Assumed responsibility for over-water safety, search and recovery of helicopter crewmembers 
+              and passengers during real-time training operations.
+            - Squad Leader: Supervised, evaluated, and counselled junior military personnel.
+            - Helicopter Crewchief & Repairer: Maintained all aircraft records, forms, logs, and 
+              aircraft status. Inspected condition and readiness of aircraft and cargo. Conducted 
+              aircraft maintenance and troubleshooting.
 
 certifications:
       title: Certifications
